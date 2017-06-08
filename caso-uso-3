@@ -1,0 +1,14 @@
+Caso de Uso: Realizar Saque
+. . .
+Cenário de Sucesso Principal:
+1. O Cliente chega ao caixa eletrônico e toca a tela do Sistema.
+2. O Sistema solicita o cartão magnético ao Cliente.
+3. O Cliente insere seu cartão magnético no caixa.
+4. O Sistema solicita a opção desejado pelo Cliente.
+5. O Cliente seleciona a opção de saque.
+6. O Sistema solicita a quantidade a ser sacado.
+7. O Cliente informa a quantidade que deseja sacar.
+8. O Sistema exibe uma mensagem de saldo suficiente.
+9. O Sistema libera o dinheiro ao Cliente.
+10. Incluir o caso de uso: Movimentar Conta.
+11. O Cliente sai com o dinheiro. 
