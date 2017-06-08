@@ -1,0 +1,10 @@
+Caso de Uso: Emprestar Livro
+. . .
+Cenário de Sucesso Principal:
+1. O Leitor chega ao balcão de atendimento da biblioteca ...
+2. O Atendente seleciona a opção “Realizar um empréstimo”
+no menu principal do sistema de biblioteca.
+3. O Atendente solicita ao leitor sua carteira de identificação,
+seja de estudante ou professor.
+4. O Atendente passa a caneta leitora de código de barras na
+carteira de identificação. 
