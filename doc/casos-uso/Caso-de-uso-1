@@ -1,6 +1,6 @@
 Caso de Uso: Emprestar Livro
 Ator Principal: Atendente
-Interessados e Interesses:
+Interessados:
 • Atendente: deseja registrar que um ou mais livros estão em posse
 de um leitor, para controlar se a devolução será feita no tempo
 determinado.
