@@ -1,0 +1,11 @@
+Caso de Uso: Emprestar Livro
+Ator Principal: Atendente
+Interessados:
+• Atendente: deseja registrar que um ou mais livros estão em posse
+de um leitor, para controlar se a devolução será feita no tempo
+determinado.
+• Leitor: deseja emprestar um ou mais livros, de forma rápida e
+segura.
+• Bibliotecário: deseja controlar o uso dos livros, para que não se
+percam e para que sempre se saiba com que leitor estão no
+momento.
