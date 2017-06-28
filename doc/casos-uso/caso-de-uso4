@@ -1,0 +1,20 @@
+Cancelar Pedido - versão
+
+Caso de uso primário
+
+Atores
+
+Cliente
+
+Pré-condição:
+
+O usuário deve ter um pedido ativo
+
+Fluxo de Eventos (caminho básico):
+
+O caso de uso começa quando o cliente seleciona "O pedido".
+Após o pedido clica no botão "cancelar pedido" e então Cliente escreve o motivo do cancelamento do pedido.
+
+Pós-condição:
+
+O prazo de cancelamento deve estar dentro do prazo de 7 dias do arrependimento da compra.
